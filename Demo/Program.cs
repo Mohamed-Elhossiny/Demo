@@ -67,8 +67,8 @@ namespace Demo
             Console.WriteLine(name[1]);
 
             int number = 5;
-            bool isEven = number % 2  == 0;
-            Console.WriteLine(isEven);
+            bool isOdd = number %! 2  == 0;
+            Console.WriteLine(isOdd);
 
             
 
