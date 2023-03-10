@@ -67,7 +67,7 @@ namespace Demo
             Console.WriteLine(name[1]);
 
             int number = 5;
-            bool isOdd = number %! 2  == 0;
+            bool isOdd = number %2  != 0;
             Console.WriteLine(isOdd);
 
             
