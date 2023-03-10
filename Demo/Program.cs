@@ -70,9 +70,9 @@ namespace Demo
             bool isOdd = number %2  != 0;
             Console.WriteLine(isOdd);
 
-            
 
 
+            Console.WriteLine();
 
 
              
